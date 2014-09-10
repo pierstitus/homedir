@@ -8,3 +8,5 @@
 !.gconf/apps/gnome-terminal
 !bin/
 !.workrave/
+.workrave/*
+!.workrave/workrave.ini

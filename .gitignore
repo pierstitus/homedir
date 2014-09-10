@@ -4,4 +4,7 @@
 !.bashrc
 !.vim/
 !.gconf/
+.gconf/apps/*
+!.gconf/apps/gnome-terminal
 !bin/
+!.workrave/
